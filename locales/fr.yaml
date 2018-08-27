@@ -1,4 +1,4 @@
-Administration: Administration DONE
+Administration: Administration 
 about: A propos
 accessDenied: Accès refusé
 activate: Activer
@@ -10,14 +10,14 @@ addEyeWithSelectedPictures: Ajouter oeil pour l'image sélectionnée
 addEyes: Ajouter yeux
 addImages: Ajouter images
 addPictures: Ajouter images
-addSelectedPicturesToAnEye: Ajouter images selectionnées à un oeil. TOCHECK
+addSelectedPicturesToAnEye: Ajouter les images selectionnées à un oeil. 
 addUsers: Ajouter utilisateurs
 addedBy: Ajouté par
 admin: Administrateur
 adminOnly: Cette page est uniquement pour administrateurs
 adminPassword: Admin mot de passe
 adminUsername: Admin nom d'utilisateur
-administration: Administration DONE
+administration: Administration
 admins: Administrateurs
 all: Tous
 amountOfUsers: Nombre d'utilisateurs
@@ -30,9 +30,9 @@ clickBelowToLogout: Clickez ci dessous pour quitter
 contactUs: Contactez nous
 deactivate: Désactiver
 delete: Effacer
-deleteEyes-msg1: 'Please clarify whether you want to merely delete these eyes, or also delete all the ratings for these eyes. TODO'
-deleteEyes-title: 'Delete eyes, or eyes and ratings? TODO'
-deleteEyesAndRatings: Delete eyes and ratings TODO
+deleteEyes-msg1: 'Veuillez clarifier si vous voulez uniquement effacer ces yeux ou aussi toutes cotations de ces yeux.'
+deleteEyes-title: 'Effacer les yeux ou les yeux et les cotations?'
+deleteEyesAndRatings: Effacer les yeux et les cotations
 deleteForeverBeCareful: Attention. Les données seront effacées definitivement.
 deleteUsers-msg1: Veuillez préciser si vous voulez uniquement effacer les comptes d'utilisateur ou aussi toutes les évaluations liées à ces comptes.
 deleteUsers-msg2: Remarquez que vous ne pouvez pas effacer utilisateur ID 1 (utilisateur démo).
@@ -50,25 +50,25 @@ eye: Oeil
 eyes: Yeux
 failedToAddAdmin: Echec d'ajout d'un administrateur
 failedToAddUsers: Echec d'ajout d'utilisateurs
-haze: Brume cornéenne TOCHECK
-home: Home TODO
-id: ID DONE
+haze: Brûme cornéenne 
+home: Home 
+id: ID 
 inactive: Inactif
 integrity: Intégrité
 invalidInviteCode: Code d'invitation invalide
 inviteCode: Code d'invitation
 lastLogin: Dernier login
 legend: Légende
-legend-h: Brume cornéene (TOCHECK)
-legend-h-0: 'Pas de brume cornéenne, cornée claire. (TOCHECK)'
-legend-h-1: 'Brume cornéenne minimale, details d''iris visible.  (TOCHECK)'
-legend-h-2: 'Brume cornéene modéré, details d''iris visible avec difficulté. (TOCHECK)'
-legend-h-3: 'Brume cornéenne sévère, details d''iris pas visible. (TOCHECK)'
-legend-i: Intégrité cornéenne. (TOCHECK)
-legend-i-0: Epithélium intact (TOCHECK)
-legend-i-1: Stippling fluorescein staining (TODO NOIDEA)
-legend-i-2: Epithéliopathie comme une spire (TOCHECK NOBETTERIDEA)
-legend-i-3: Erosion épithélial (TOCHECK)
+legend-h: Brûme cornéene 
+legend-h-0: 'Pas de brûme cornéenne, cornée claire.'
+legend-h-1: 'Brûme cornéenne minimale, details de l'iris visibles.'
+legend-h-2: 'Brûme cornéene modérée, details de l'iris visibles avec difficulté.'
+legend-h-3: 'Brûme cornéenne sévère, details de l'iris non visibles.'
+legend-i: Intégrité cornéenne. 
+legend-i-0: 'Epithélium intact'
+legend-i-1: 'Coloration pointillée à la fluorescéine'
+legend-i-2: 'Epithéliopathie comme en forme de couronne' ('whorl-like epitheliopathy)
+legend-i-3: 'Erosion épithéliale'
 legend-v: Vascularisation cornéenne superficielle
 legend-v-0: 'Pas de vaisseaux superficiels, cornée claire'
 legend-v-1: Jusqu'à 30% de la zone est recouverte par des vaisseaux superficiels
@@ -119,7 +119,7 @@ sourceCode: Code source
 startUpload: Commencer upload
 status: Statut
 stopUpload: Arrêter upload
-superadmin: Super admin DONE
+superadmin: Super admin 
 superadminOnly: Cette page est pour super administrateurs uniquement
 tagline: Un module d'évaluation standardisé pour déficience de cellules souches limbiques
 takePartMsg: Les participants à l'étude VaHI ont reçu un code d'invitation unique. Si vous avez un code vous pouvez participer.'
